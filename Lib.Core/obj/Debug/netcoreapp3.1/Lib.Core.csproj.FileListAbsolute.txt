@@ -1,0 +1,10 @@
+C:\Users\vms21\source\repos\AuthSystem\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.deps.json
+C:\Users\vms21\source\repos\AuthSystem\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\vms21\source\repos\AuthSystem\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.pdb
+C:\Users\vms21\source\repos\AuthSystem\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vms21\source\repos\AuthSystem\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.AssemblyInfoInputs.cache
+C:\Users\vms21\source\repos\AuthSystem\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.AssemblyInfo.cs
+C:\Users\vms21\source\repos\AuthSystem\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.csproj.CoreCompileInputs.cache
+C:\Users\vms21\source\repos\AuthSystem\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\vms21\source\repos\AuthSystem\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.pdb
+C:\Users\vms21\source\repos\AuthSystem\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.csproj.AssemblyReference.cache

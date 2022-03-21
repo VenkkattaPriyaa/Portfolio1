@@ -1,0 +1,13 @@
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.deps.json
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.dll
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.pdb
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Core.pdb
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.AssemblyReference.cache
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfoInputs.cache
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfo.cs
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CoreCompileInputs.cache
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CopyComplete
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.dll
+C:\Users\vms21\source\repos\AuthSystem\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.pdb

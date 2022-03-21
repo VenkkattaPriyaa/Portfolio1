@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthSystem", "AuthSystem\AuthSystem.csproj", "{B6614AB5-D8DA-49D8-B1E4-290BF40A077E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Core", "Lib.Core\Lib.Core.csproj", "{AF73AB05-AD3D-48BB-8819-395E0171889B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Service", "Lib.Service\Lib.Service.csproj", "{A819B5F5-BEE3-459D-A8C0-ED93577ED500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6614AB5-D8DA-49D8-B1E4-290BF40A077E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6614AB5-D8DA-49D8-B1E4-290BF40A077E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6614AB5-D8DA-49D8-B1E4-290BF40A077E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6614AB5-D8DA-49D8-B1E4-290BF40A077E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF73AB05-AD3D-48BB-8819-395E0171889B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF73AB05-AD3D-48BB-8819-395E0171889B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF73AB05-AD3D-48BB-8819-395E0171889B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF73AB05-AD3D-48BB-8819-395E0171889B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A819B5F5-BEE3-459D-A8C0-ED93577ED500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A819B5F5-BEE3-459D-A8C0-ED93577ED500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A819B5F5-BEE3-459D-A8C0-ED93577ED500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A819B5F5-BEE3-459D-A8C0-ED93577ED500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BB29267-1B77-4C6F-B723-AF76313F0B42}
+	EndGlobalSection
+EndGlobal
